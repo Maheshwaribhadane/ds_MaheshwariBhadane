@@ -1,7 +1,7 @@
 # ds_MaheshwariBhadane
 
 ## 📂 Project Structure
-- `Junior_Data_Scientist_task` — Main Google Colab analysis notebook
+- `Junior_Data_Scientist` — Main Google Colab analysis notebook
 - `csv_files/` — Raw and processed data
 - `outputs/` — Visualization outputs (charts, plots)
 - `ds_report.pdf` — Final project summary report
